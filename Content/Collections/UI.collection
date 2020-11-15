@@ -1,0 +1,12 @@
+FileVersion:2
+Type:Static
+Guid:72B39091-4D7F-1BAF-61C3-F680A49AECBD
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/TwentyItems/Blueprints/Player/UI/PROTO/W_DamageDisplay.W_DamageDisplay
+/Game/TwentyItems/Blueprints/Player/UI/PROTO/W_InteractMessage.W_InteractMessage
+/Game/TwentyItems/Blueprints/Player/UI/PROTO/W_InventoryOLD.W_InventoryOLD
+/Game/TwentyItems/Blueprints/Player/UI/PROTO/W_InventorySlot.W_InventorySlot
+/Game/TwentyItems/Blueprints/Player/UI/PROTO/W_Player.W_Player
+/Game/TwentyItems/Blueprints/Player/UI/W_ConsumableAttributes.W_ConsumableAttributes
+/Game/TwentyItems/Blueprints/Player/UI/W_GunClip.W_GunClip

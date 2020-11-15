@@ -1,0 +1,8 @@
+FileVersion:2
+Type:Static
+Guid:1E2E70CE-4F1A-D193-4A4C-9EA2D9425FAE
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/TwentyItems/Blueprints/Equippables/Common/EquippableInventoryDataTable.EquippableInventoryDataTable
+/Game/TwentyItems/Blueprints/Equippables/Common/EquippableSlotType.EquippableSlotType
+/Game/TwentyItems/Blueprints/Equippables/Weapons/Ranged/Common/RangedWeaponsDataTable.RangedWeaponsDataTable

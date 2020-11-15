@@ -1,0 +1,11 @@
+FileVersion:2
+Type:Static
+Guid:2399C227-4C3C-2B68-04D8-9B991F071F31
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/TwentyItems/Materials/PROTO/Architecture/CheckerBoard_Bathroom_M.CheckerBoard_Bathroom_M
+/Game/TwentyItems/Materials/PROTO/Architecture/CheckerBoard_Hallway_M.CheckerBoard_Hallway_M
+/Game/TwentyItems/Materials/PROTO/Architecture/CheckerBoard_M.CheckerBoard_M
+/Game/TwentyItems/StaticMeshes/Architecture/Bathroom/OLd/Bathroom_Ceiling_01.Bathroom_Ceiling_01
+/Game/TwentyItems/StaticMeshes/Architecture/Bathroom/OLd/Bathroom_Floor_01.Bathroom_Floor_01
+/Game/TwentyItems/StaticMeshes/Architecture/Bathroom/OLd/Bathroom_Wall_01.Bathroom_Wall_01

@@ -1,0 +1,8 @@
+FileVersion:2
+Type:Static
+Guid:6C215D94-44E0-769F-B6C3-9CA4F890A8CC
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/TwentyItems/Blueprints/Equippables/Weapons/FagoozleGun/FagoozleGun.FagoozleGun
+/Game/TwentyItems/Blueprints/Equippables/Weapons/FagoozleGun/FagoozleGunOLD.FagoozleGunOLD
+/Game/TwentyItems/Blueprints/Player/UI/Fagoozle/FagoozleControls.FagoozleControls

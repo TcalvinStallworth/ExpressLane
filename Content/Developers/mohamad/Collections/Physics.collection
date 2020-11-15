@@ -1,0 +1,9 @@
+FileVersion:2
+Type:Static
+Guid:962084B9-432C-BCE1-628C-47A42B26D229
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/TwentyItems/Blueprints/Bombay/PhysicsComponent.PhysicsComponent
+/Game/TwentyItems/Blueprints/Equippables/Weapons/FagoozleGun/Equippable_FagoozleGun.Equippable_FagoozleGun
+/Game/TwentyItems/Blueprints/Physics/PhysicsParent.PhysicsParent
+/Game/TwentyItems/Blueprints/Physics/PhysicsParent_Child.PhysicsParent_Child

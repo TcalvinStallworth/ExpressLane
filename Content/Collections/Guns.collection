@@ -1,0 +1,13 @@
+FileVersion:2
+Type:Static
+Guid:EB2D15A3-49BB-8A8B-03A7-73AAA3F96C23
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/TwentyItems/Blueprints/Equippables/Weapons/Ranged/Common/AmmoType.AmmoType
+/Game/TwentyItems/Blueprints/Equippables/Weapons/Ranged/Common/Equippable_Ranged_Parent.Equippable_Ranged_Parent
+/Game/TwentyItems/Blueprints/Equippables/Weapons/Ranged/Common/FireType.FireType
+/Game/TwentyItems/Blueprints/Equippables/Weapons/Ranged/Common/Projectile/GunProjectile.GunProjectile
+/Game/TwentyItems/Blueprints/Equippables/Weapons/Ranged/Common/RangedWeaponSpreadStruct.RangedWeaponSpreadStruct
+/Game/TwentyItems/Blueprints/Equippables/Weapons/Ranged/Common/RangedWeaponStruct.RangedWeaponStruct
+/Game/TwentyItems/Blueprints/Equippables/Weapons/Ranged/Common/RecoilStruct.RecoilStruct
+/Game/TwentyItems/Blueprints/Equippables/Weapons/Ranged/SubmachineGuns/Trash_Vert.Trash_Vert

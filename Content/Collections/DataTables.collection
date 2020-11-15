@@ -1,0 +1,8 @@
+FileVersion:2
+Type:Static
+Guid:6EEB8DEB-44F1-7B59-42B8-43AF1E5D600C
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/TwentyItems/Blueprints/Equippables/Common/EquippableInventoryDataTable.EquippableInventoryDataTable
+/Game/TwentyItems/Blueprints/Equippables/Common/Rarity/RarityColorDataTable.RarityColorDataTable
+/Game/TwentyItems/Blueprints/Equippables/Weapons/Ranged/Common/RangedWeaponsDataTable.RangedWeaponsDataTable

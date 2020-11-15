@@ -1,0 +1,17 @@
+FileVersion:2
+Type:Static
+Guid:61B6BEDD-4589-FC2C-2B73-4DB757522E52
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/TwentyItems/Blueprints/Destructibles/DestructibleParent.DestructibleParent
+/Game/TwentyItems/Blueprints/Destructibles/DestructibleParent_Sampler.DestructibleParent_Sampler
+/Game/TwentyItems/Blueprints/Destructibles/DestructibleProfilesDataTable.DestructibleProfilesDataTable
+/Game/TwentyItems/Blueprints/Fagoozle/Building/FagoozleTerritory.FagoozleTerritory
+/Game/TwentyItems/Blueprints/Interactables/Trains/TrainStationSpawner.TrainStationSpawner
+/Game/TwentyItems/Blueprints/Lootables/Skylands/ChestSpawner.ChestSpawner
+/Game/TwentyItems/Blueprints/Lootables/Skylands/FloorLoot_Parent.FloorLoot_Parent
+/Game/TwentyItems/Blueprints/Main/Blutilities/BlueprintReplicator.BlueprintReplicator
+/Game/TwentyItems/Blueprints/Main/Blutilities/BlueprintReplicatorBlutility.BlueprintReplicatorBlutility
+/Game/TwentyItems/Blueprints/Main/Blutilities/DestructibleBlutility.DestructibleBlutility
+/Game/TwentyItems/Blueprints/Main/BP_DayNightBox.BP_DayNightBox
+/Game/TwentyItems/Blueprints/ProceduralGeneration/Roads/Road_Spline.Road_Spline
